@@ -14,7 +14,7 @@ Feel free to connect with me to explore how my analytical skills and passion for
   
 - **[Football Managerial Impact Analysis ⚽](https://github.com/benedetto-moschella/football-managerial-impact)**: A predictive model assessing the impact of managerial changes on football team performance throughout the season.
   
-- **[Octopus Energy Industry Project 🌍]([https://github.com/benedetto-moschella/Data-Insights-for-Octopus-Energy])**: An analysis project focused on visualizing the benefits of green energy, highlighting economic and ecological impacts through interactive graphs.
+- **[Octopus Energy Industry Project 🌍](https://github.com/benedetto-moschella/Data-Insights-for-Octopus-Energy)**: An analysis project focused on visualizing the benefits of green energy, highlighting economic and ecological impacts through interactive graphs.
 
 ### Let's Connect 🌐
 - **LinkedIn**: [www.linkedin.com/in/benedetto-moschella]
