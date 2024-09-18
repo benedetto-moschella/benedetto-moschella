@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**benedetto-moschella/benedetto-moschella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+From crafting intricate lines of Python to analyzing complex data sets, my transition from a solid Computer Science background to the dynamic realm of Machine Learning has been fueled by a passion for data-driven decision-making. My career is driven by curiosity about the transformative power of technology and its potential to advance strategic solutions.
 
-Here are some ideas to get you started:
+I’m particularly inspired by the ability of machine learning to revolutionize industries and improve lives. This led me to pursue a Data Science diploma at BrainStation, where I refined my skills in Python, SQL, Tableau, and key machine learning frameworks like TensorFlow, Keras, and PyTorch. My work includes developing the Little Lemon App 🍋 and predictive models that evaluate managerial impact on football teams ⚽.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in combining data visualization 📊 with machine learning 🤖 to create actionable insights, a strength demonstrated through projects such as the Octopus Energy Industry Project 🌍 and Football Managerial Impact analysis. My goal is to contribute to teams that value forward-thinking solutions, while remaining at the forefront of the machine learning field.
+
+Feel free to connect with me to explore how my analytical skills and passion for tech can help elevate your data-driven projects. Let’s collaborate to transform insights into impact!
+
+### Let's Connect 🌐
+- **LinkedIn**: [www.linkedin.com/in/benedetto-moschella]
+
+### Technical Skills 💻
+- **Languages**: Python 🐍, C, SQL, JavaScript, Java
+- **Frameworks & Tools**: TensorFlow, PyTorch, Keras, React JS, Node.js, Docker, REST APIs
+- **Data**: Machine Learning (scikit-learn), Data Analysis, Data Visualization, Tableau
+- **Cloud & Big Data**: AWS ☁️, Hadoop, Spark, Hive
+- **Databases**: MySQL
+- **Others**: A/B Testing, UML
+
