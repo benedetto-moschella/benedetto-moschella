@@ -8,6 +8,14 @@ I specialize in combining data visualization 📊 with machine learning 🤖 to 
 
 Feel free to connect with me to explore how my analytical skills and passion for tech can help elevate your data-driven projects. Let’s collaborate to transform insights into impact!
 
+### 🚀 Projects
+
+- **[Little Lemon App 🍋](https://github.com/benedetto-moschella/little-lemon)**: A seamless food ordering app built with SwiftUI, designed to enhance the customer experience from menu navigation to payment.
+  
+- **[Football Managerial Impact Analysis ⚽](https://github.com/benedetto-moschella/football-managerial-impact)**: A predictive model assessing the impact of managerial changes on football team performance throughout the season.
+  
+- **[Octopus Energy Industry Project 🌍](https://github.com/benedetto-moschella/octopus-energy)**: An analysis project focused on visualizing the benefits of green energy, highlighting economic and ecological impacts through interactive graphs.
+
 ### Let's Connect 🌐
 - **LinkedIn**: [www.linkedin.com/in/benedetto-moschella]
 
